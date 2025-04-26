@@ -28,4 +28,4 @@
 ## Горячие клавиши 
 1. Control + Shift + D - декомпиляция Jar
 2. Control + Shift + C - компиляция Jar
-3. Control + Shift + E - собрка EXE
+3. Control + Shift + E - сборка EXE
